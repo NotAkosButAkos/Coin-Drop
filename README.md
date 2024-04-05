@@ -1,5 +1,5 @@
 # Coin-Drop
-A litle minigame, a joke.
+A little minigame, a joke.
 
 Future plans:
 > fixing window sizing and this things
